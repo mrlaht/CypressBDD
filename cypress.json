@@ -1,0 +1,14 @@
+{
+    "watchForFileChanges": false,
+    "pageLoadTimeout": 100000,
+    "defaultCommandTimeout": 60000,
+    "baseUrl": "https://devmalta.bitso.com",
+    "loginPath": "/login",
+    "registerPath": "/register",
+    "walletPath": "/wallet",
+    "addBeneficiaryPath": "/r/user/beneficiaries/add",
+    "video": true,
+    "viewportWidth": 1000,
+    "viewportHeight": 660
+    
+}
