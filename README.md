@@ -1,2 +1,2 @@
-# TakeHome
+# Sample
 Cypress Test
